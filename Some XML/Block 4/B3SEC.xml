@@ -1,0 +1,8 @@
+<Subject Name="Security" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.4"/>
+	<Exam Name="Exam" Weight="0.5"/>
+	<Bonus Name="Project Paper (0 als tentamens gemiddeld minder dan 7 zijn)" For="Subject"/>
+	<Bonus Name="Project Presentation (0 als tentamens gemiddeld minder dan 7 zijn)" For="Subject"/>
+	<Exercise Name="Homework 1" Weight="0.05"/>
+	<Exercise Name="Homework 2" Weight="0.05"/>
+</Subject>

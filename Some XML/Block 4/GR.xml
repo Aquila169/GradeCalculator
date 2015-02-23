@@ -1,0 +1,9 @@
+<Subject Name="Graphics" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.33333"/>
+	<Exam Name="Exam" Weight="0.33333"/>
+	<Practical Name="Practical 1" Weight="0.11111"/>
+	<Practical Name="Practical 2" Weight="0.11111"/>
+	<Practical Name="Practical 3" Weight="0.11111"/>
+	<Demand Name="Scored 5 on average for practicals" Max="5"/>
+	<Demand Name="Scored 5 on average for exams" Max="5"/>
+</Subject>

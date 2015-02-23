@@ -1,0 +1,9 @@
+<Subject Name="Research Methods for Gametech and Computer Science" Min="5.5" Year="2013">
+	<Exam Name="Statistics Exam" Weight="0.2"/>
+	<Practical Name="Research Project" Weight="0.3"/>
+	<Practical Name="Presentation" Weight="0.2"/>
+	<Practical Name="Paper" Weight="0.3"/>
+	<Demand Name="Present at N-2 tutorial sessions" Max="5.5"/>
+	<Demand Name="Scored 5 on all parts" Max="5"/>
+	<Demand Name="Participated in Flitspresentatie" Max="5"/>
+</Subject>

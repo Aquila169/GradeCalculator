@@ -1,0 +1,9 @@
+<Subject Name="Software Testing and Verification" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.2375"/>
+	<Exam Name="Final Exam" Weight="0.2375"/>
+	<Practical Name="Project Phase 1" Weight="0.1425"/>
+	<Practical Name="Project Phase 2" Weight="0.1425"/>
+	<Exercise Name="Program Proof" Weight="0.19"/>
+	<Bonus Name="Homework" For="Subject"/>
+	<Demand Name="Scored average Exams 3.5" Max="4"/>
+</Subject>

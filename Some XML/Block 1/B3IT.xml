@@ -1,0 +1,5 @@
+<Subject Name="Interaction Technology" Min="5.5" Year="2013">
+	<Exam Name="Final Exam" Weight="0.6"/>
+	<Practical Name="Project" Weight="0.28"/>
+	<Exercise Name="Assignments" Weight="0.12"/>
+</Subject>

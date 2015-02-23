@@ -1,0 +1,7 @@
+<Subject Name="Image Processing" Min="5.5" Year="2014">
+	<Exam Name="Midterm" Weight="0.16"/>
+	<Exam Name="Final Exam" Weight="0.33"/>
+	<Exercise Name="Practical 1" Weight="0.08"/>
+	<Exercise Name="Practical 2" Weight="0.08"/>
+	<Practical Name="Assignment" Weight="0.33"/>
+</Subject>

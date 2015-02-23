@@ -1,0 +1,10 @@
+<Subject Name="3D-Modelling" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.15"/>
+	<Exam Name="Exam" Weight="0.4"/>
+	<Practical Name="Hand" Weight="0.075"/>
+	<Practical Name="Monster" Weight="0.075"/>
+	<Practical Name="Splines" Weight="0.15"/>
+	<Practical Name="RANSAC" Weight="0.15"/>
+	<Demand Name="All parts scored 4" Max="4"/>
+	<Demand Name="Exam scored 5" Max="5"/>
+</Subject>

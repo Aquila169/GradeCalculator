@@ -1,0 +1,8 @@
+<Subject Name="Data-analysis and Retrieval" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.25"/>
+	<Exam Name="Final Exam" Weight="0.25"/>
+	<Practical Name="Practical 1" Weight="0.25"/>
+	<Practical Name="Practical 2" Weight="0.25"/>
+	<Demand Name="Scored 5 for all parts" Max="5"/>
+	<Demand Name="Scored 6 for either midterm or final" Max="5"/>
+</Subject>

@@ -1,0 +1,5 @@
+<Subject Name="Computational Intelligence" Min="5.75" Year="2013">
+	<Exam Name="Midterm" Weight="0.333333"/>
+	<Exam Name="Exam" Weight="0.333333"/>
+	<Practical Name="Practical" Weight="0.333333"/>
+</Subject>

@@ -1,0 +1,10 @@
+<Subject Name="Imperative Programming" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.1"/>
+	<Exam Name="Second Midterm" Weight="0.15"/>
+	<Exam Name="Final Exam" Weight="0.25"/>
+	<Practical Name="Mandelbrot" Weight="0.1"/>
+	<Practical Name="Reversi" Weight="0.15"/>
+	<Practical Name="SchetsPlus" Weight="0.25"/>
+	<Demand Name="5 average for Exams" Max="5"/>
+	<Demand Name="5 average for Practicals" Max="5"/>
+</Subject>

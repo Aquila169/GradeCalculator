@@ -1,0 +1,13 @@
+<Subject Name="Computer Architecture and Networks" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.3"/>
+	<Exam Name="Exam" Weight="0.4"/>
+	<Exercise Name="Paper" Weight="0.15"/>
+	<Exercise Name="WC1" Weight="0.02143"/>
+	<Exercise Name="WC2" Weight="0.02143"/>
+	<Exercise Name="WC3" Weight="0.02143"/>
+	<Exercise Name="WC4" Weight="0.02143"/>
+	<Exercise Name="WC5" Weight="0.02143"/>
+	<Exercise Name="WC6" Weight="0.02143"/>
+	<Exercise Name="WC7" Weight="0.02143"/>
+	<Demand Name="Handed in all WC exercises" Max="5.5"/>
+</Subject>

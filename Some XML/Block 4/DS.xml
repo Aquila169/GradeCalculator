@@ -1,0 +1,6 @@
+<Subject Name="Datastructures" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.35"/>
+	<Exam Name="Exam" Weight="0.4"/>
+	<Practical Name="Practicals" Weight="0.25"/>
+	<Demand Name="Completed 5/8 practicals" Max="5"/>
+</Subject>

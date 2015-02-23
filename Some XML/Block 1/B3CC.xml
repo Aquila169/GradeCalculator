@@ -1,0 +1,10 @@
+<Subject Name="Concurrency" Min="5.5" Year="2013">
+	<Exam Name="Midterm" Weight="0.25"/>
+	<Exam Name="Final Exam" Weight="0.25"/>
+	<Practical Name="Prison Break" Weight="0.1"/>
+	<Practical Name="NetChange" Weight="0.2"/>
+	<Practical Name="Rush Hour" Weight="0.2"/>
+	<Demand Name="Scored 4 for all but P1" Max="4"/>
+	<Demand Name="5 average for Exams" Max="5"/>
+	<Demand Name="5 average for Practicals" Max="5"/>
+</Subject>

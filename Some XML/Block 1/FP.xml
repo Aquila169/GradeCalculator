@@ -1,0 +1,13 @@
+<Subject Name="Functional Programming" Min="5.5" Year="2014">
+	<Exam Name="Midterm" Weight="0.15"/>
+	<Exam Name="Final Exam" Weight="0.35"/>
+	<Practical Name="Lists" Weight="0.1"/>
+	<Practical Name="Data Structures" Weight="0.1"/>
+	<Practical Name="Type Classes" Weight="0.1"/>
+	<Practical Name="Monads" Weight="0.1"/>
+	<Practical Name="Game" Weight="0.1"/>
+	<Demand Name="5 average for Exams" Max="5"/>
+	<Demand Name="5 average for Practicals" Max="5"/>
+</Subject>
+
+
